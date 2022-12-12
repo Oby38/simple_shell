@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 BOB# SIMPLE UNIX SHELL :
+=======
+# SIMPLE UNIX SHELL:
+>>>>>>> 22bad6046ff9c44982c3363a75122a7ffddc70c1
 
 ## Description :page_with_curl:
 
