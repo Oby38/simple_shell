@@ -1,4 +1,4 @@
-# SIMPLE UNIX SHELL :shell:
+BOB# SIMPLE UNIX SHELL :
 
 ## Description :page_with_curl:
 
@@ -17,7 +17,7 @@ This is a simple implementation of a UNIX command line interpreter. The shell ca
 
 The shell returns a value of 0 if the command is valid and the command is executed successfully.
 
-## Output :file_folder:
+## Output :
 
 - The program must have the exact same output as `sh (/bin/sh)` as well as the exact same error output.
 - The only difference is when you print an error, the name of the program must be equivalent to the `argv[0]`
